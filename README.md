@@ -1,19 +1,25 @@
-To Do List App React (V1)
-To Do List App React JS by WebStylePress (Add, Edit, Update, Delete, Toggle Tasks)
+# To Do List App React Using JS Object
 
-How to Use
-Clone or download repo NodeJS / NPM / Yarn should be installed in your PC
+To Do List App React JS by Ipul (Add, Edit, Update, Delete, Toggle Tasks)
 
-Open terminal or Git for Windows (Git Bash) Run these commands:
+## How to Use
 
-Install Dependencies
+Clone or download repo
+NodeJS / NPM / Yarn should be installed in your PC
+
+Open terminal or Git for Windows (Git Bash)
+Run these commands:
+
+### Install Dependencies
+
 yarn install
 
 OR
 
 npm install
 
-Run app
+### Run app
+
 yarn start
 
 OR
